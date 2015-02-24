@@ -1,0 +1,181 @@
+= The Operation Order - OPORD
+
+Task Organization: States how the unit is organized for the operation and gives who is the main effort. The leader sufficiently weighs the main effort for each mission (for example, machine guns and antiarmor weapons) to ensure success.
+
+== Step 1: Situation
+
+Provides information essential to subordinate leader's understanding of the situation.
+
+=== A. Enemy Forces
+
+. Weather and light data general forecast for the length of the operation: temperature (high & low), sunrise, sunset, moonrise, moonset, moon phase, % illumination, wind speed, wind direction, BMNT, EENT.
++    
+NOTE: You must focus on the effects of weather on military operations rather than the factors that make up the analysis. That is, how does it effect you and your troops on this mission? These types of evaluations are more readily usable by your troops than statements such as "...3 inches of rain over the next 24 to 48 hours..."
+
+. Terrain: use the acronym OCOKA to analyze terrain
+
+. Identification of enemy forces (composition). (is he armored, mechanized, motorized, or light? what does that mean to the operation?)
+
+. Location(s): Known and suspected (disposition). (give grids or relative locations such as 2 KMs to the north)
+
+. Activity. (is he attacking, retreating, defending, patrolling, etc. ?)
+
+. Strength(squad, platoon, or company strength), morale (hi or low?), equipment (crew-served weapons, machine guns, anti-tank weapons?) and capabilities (They are capable of reinforcing with a platoon in 30 minutes)
+
+. Probable course(s) of action when contacted (Will they fight, disperse, retreat, attack?)
+
+=== B. Friendly Forces
+
+1. Mission and concept of next higher unit (from his paragraph 2) to include higher leader's intent (from his paragraph 3)
+
+2. Location and planned actions of units to the left, right, front, and rear (from higher leader's Tasks to Maneuver Units in paragraph 3). State how such actions influence your unit, particularly adjacent unit patrols. Point out their locations on the terrain model
+
+3. Units providing fire support:
+
+List the fire support mean available to your unit: company or battalion mortars, artillery, CAS (Close Air Support), Naval Gunfire, etc.
+
+=== C. Attachments/Detachments
+
+Attachment: Anyone not normally a part of your unit that is attached for the mission.
+Detachment: Anyone normally part of your unit that is not going on the mission for some reason.
+
+== Step 2: Mission
+
+This is a clear, concise statement of the unit's task(s) to be accomplished and the purpose for doing it (who, what, when, where, why, and how). The mission is always stated twice in full. When you give WHEN it's best to give an actual clock hard time (i.e., NLT 1030 hrs. rather than NLT 50 minutes from now)
+
+== Step 3: Execution
+
+=== Intent
+
+A stated vision that defines the purpose of an operation and the end state with respect to the relationship among the force, the enemy, and the terrain. It affords the subordinates the ability to accomplish the mission in the absence of additional guidance, orders, or communication.
+
+A. Concept of the Operation: This paragraph describes, in general terms, how the unit will accomplish its task(s) from start to finish. It should identify all mission essential tasks, the decisive points of action, and the main effort. This paragraph should be no longer that six sentences.
+
+Here is where you tell a quick, general story about how you envision the mission step-by-step from the AA (assembly area), to the ORP (objective rally point), then to the OBJ (objective), and back to the ORP.
+
+example:
+We will move out of the AA on a 190 degree azimuth for 50m in a team wedge, squad in column, in traveling formation to the line of departure. After moving 150m past the Line of Departure, we will conduct a 3 min listening halt. After which, we will move on a 190 degree azimuth for 500m where we will establish our ORP, during movement we will establish rally points every 100m. We have one linear danger area which we will cross as per our SOP. We will halt the squad at the tentative ORP location near this hill (pointing to the terrain model) then I will Look for a suitable ORP (remember: cover and concealed, defendable, off of key terrain, and off the natural line of drift--sometimes you will only be able to find one or two of these characteristics on the STX lane, but be aware). Then we will occupy the ORP by force. I will issue my 5 point contingency plan (GOTWA). Then I will go forward with the bravo team leader and two security (Jones and Smith) to pin point the OBJ to confirm the plan and establish surveillance (leaving a GOTWA). Then I will return to the ORP together the Assault and Support teams. After actions on the OBJ, we will withdraw to the ORP, gather our rucks, and I will call a SALUTE and ACE report to higher. The we will move on a 270 degree azimuth for 500 meters where we will establish a cigar shaped perimeter and disseminate information gained during the mission.
+
+=== 1. Maneuver:
+
+This paragraph addresses, in detail, the mechanics of the operation. The main effort must be designated. All subordinate units (such as assault, support, R & S) with their tasks, related to the main effort, are identified also. Actions on the objective should comprise most of the paragraph. This paragraph covers, in excruciating detail, actions from leaving the ORP to the OBJ and back to the ORP.
+
+Example:
+After I return from the leader's recon, I'll take the squad forward to the release point. After checking in with the surveillance team to insure nothing has changed on the objective, Bravo team, who is the support element, will break off and move into position, here (point on the terrain model). I will take alpha team who the assault team and also the main effort and emplace them in their attack position, here (point on the terrain model). There we will camouflage our positions and emplace the claymore mine here (point on the terrain model). When an enemy squad moves into the kill zone, I will initiate the ambush with the claymore, and then the entire squad will fire into the kill zone for 45 seconds. After the time is up, I will give the signal for the support element to shift fire by throwing green smoke between the attack position and the objective. At this time the RTO who is the recorder and the timekeeper will start his watch. On my one long whistle blast, Alpha team will then assault, staying in their respective lanes, all the way through the objective, kicking aside weapons as they go. Alpha team will set up a limit of advance here (point on the terrain model). Once the LOA has been established, I will signal bravo team with two whistle blasts to come down and join alpha on the objective. Once bravo arrives and sets up between 9 and 12, with alpha pulling security from 12 to 3, I will call for special teams. Aid and litter teams take priority and they will drag all friendly wounded back to the casualty collection point here (point on the terrain model) on the near side of the objective. Then I will call out the EPW teams to process any enemy dead or survivors, and consolidate them at the EPW collection point here (point on the terrain model). throughout this time, the recorder will call out how long we have been on the objective every 30 seconds. Once all the equipment has been consolidated in the center of the objective here (point on the terrain model) by the EPW teams, I will call for the demo team to emplace their charges. I will give the codeword "red" whereupon aid and litter plus any casualties will withdrawal. On the next codeword "white" the assault element - alpha team - will withdraw. On the third "blue" the support element - bravo team - will withdraw and the demo team will light the fuse and withdraw as well. All elements will move back through the release point to the ORP.
+
+=== 2. Fires:
+
+This paragraph describes how the leader intends for the fires to support his maneuver. It states the purpose to be achieved from the fires, priority of fires, allocation of any priority targets, and any restrictive control measures for the fires. This is also where you give the target number, the grid, the description to each target you have planned.
+
+==== B. Tasks to Maneuver Units
+
+Cover special teams in this area. Go over the names of the people on the team and task and purpose for each team: assault, support, security, R&S, EPW(Enemy Prisoner of War), Aid and Litter, Demolition, surveillance. Also detail your instructions to individuals such as primary / alternate paceman and primary / alternate compassman.
+
+==== C. Tasks to Combat Support Units
+
+This paragraph is similar to paragraph III.B except that it describes how combat support units will be employed.
+
+==== D. Coordinating Instructions
+
+This paragraph lists the details of coordination and control applicable to two or more units/sub-units. Items that might be addressed include:
+
+. Order of movement, formations, and movement techniques. Use a sketch/terrain model
+
+. Actions at halts (short/long). - SOP
+
+. Routes (primary/alternate). - Give the hard azimuth and distance
+
+. Departure and reentry of friendly lines.
+
+. Rally points and actions at rally points (specify either IRP(initial rally point), ORP, PB (patrol base), or RRP(re-entry rally point) and include grid coordinates and/or terrain references).
+
+. Actions at danger areas (other than unit SOPs).
+
+. Actions on enemy contact (other than unit SOPs).
+
+. Reorganization and consolidation instructions (other than unit SOPs).
+
+. Fire distribution measures: point fires vs. area fires for all weapons systems (M16, M249, M60, etc.)
+
+. Fire control measures: cover what you want them to shoot at in order (i.e. crew served weapons then radio operators, then leaders), sectors of fire to include TRPs (target reference points), visual/sound signals.
+
+. MOPP levels.
+
+. Troop safety and operational exposure guidance.
+
+. Time schedules (rehearsals, backbriefs, inspections, movement). Give who must be there, when, where, and what you'll rehearse (actions on the objective are priority!)
+
+. Priority Intelligence Requirements (PIR).
+
+. Debriefing requirements.
+
+. Reports. When do you want to get ACE and SALUTE reports? (after all contact with the enemy)
+
+. Rules of Engagement (ROE). When to start shooting. If you are in an ambush, do you shoot at one soldier walking down the road alone? do you engage a battalion going along the road with your squad?
+
+== Step 4: Service Support
+
+This paragraph supplies the critical logistical information required to sustain the unit during the operation.
+
+=== A. General
+
+. SOPs in effect for sustainment operations.
+. Current and proposed trains/resupply/cache points.
+. Casualty and damaged equipment. CCPs (casualty collection points), location of the medevac PZ (Pickup Zone)
+. Special instructions for medical personnel. (triage requirements, 9-line medevac procedures)
+
+=== B. Material and Services
+
+. Supply:
+
+. Class I: Subsistence. (Food and water)
+.. Class II: Clothing and individual equipment.
+.. Class III: POL.
+.. Class IV: Construction.
+.. Class V: Ammunition.
+.. Class VI: Personal Demand Items.
+.. Class VII: Major End Items. (special items - which go with what team - i.e. claymores go with the assault team)
+.. Class VIII: Medical.
+.. Class IX: Repair parts.
+.. Class X: Agriculture/Economic Development.
+.. Distribution Methods. (platoon sergeant, squad leaders, team leaders)
+
+. Transportation.
+. Services (laundry, showers, etc.).
+. Maintenance (weapons, equipment, vehicles). Priority of work and the plan to maintain equipment.
+
+=== C. Medical Evacuation:
+
+Method of evacuating dead and wounded personnel, friendly and enemy (to include priorities). Discuss enemy dead/ wounded and friendly dead/ wounded. will they be medevaced, carried, or (in the case of enemy) left where they are?
+
+=== D. Personnel:
+
+Method of handling EPWs and designation of EPW collection point.
+
+=== E. Miscellaneous:
+
+Special equipment. What does the unit have that is special equipment to accomplish the mission (i.e. claymore mine in an ambush)
+Captured equipment. What to do with captured equipment (usually destroy it unless it is strange or unique, in which case you take it with you or if it can't be moved, make a sketch of it and destroy it)
+
+== Step 5: Command & Signal
+
+This paragraph states where command and control elements are located during the operation.
+
+=== A. Command
+
+. Location of the higher unit commander and CP (get this from your higher leader's paragraph 5)
+. Location of key personnel and type CP during all phases of the operation. during movement, at the ORP, and on the objective.
+. Succession of Command. (give this down to the last person in a squad element by name)
+. Adjustments to the unit SOP.
+
+=== B. Signal
+
+. SOI index in effect (frequencies, call signs).
+. Method of communication by priority (usually FM and then runner)
+. Pyrotechnics and signals, to include arm and hand signals (go over all important signals like lift/shift fire, assault onto the OBJ, withdraw from OBJ, etc.)
+. Codewords (like red, white, and blue in the example in paragraph 3)
+. Challenge and password (behind friendly lines)
+. Number combination (forward of friendly lines)
+. Running password.
+. Recognition signals (near/far, day/night).
+. Special instructions for RTOs. ( you are in charge of all commo. monitor the radio continuously, remind me about reports that are due to higher, you are the enroute recorder and the recorder / timekeeper on the objective)

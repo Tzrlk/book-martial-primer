@@ -1,0 +1,24 @@
+{
+    "language": "en",
+    "direction:" "ltr",
+    
+    "structure": {
+        "readme": "README.adoc",
+        "summary": "SUMMARY.adoc",
+        "glossary": "GLOSSARY.adoc"
+    },
+
+    "plugins": [
+        "autocover"
+    ],
+
+    "pluginsConfig": {
+        
+        "autocover": {
+            "title": "Martial Primer",
+            "author": "Stalker Geist, Commander of the Avyrnian Deathwolves"
+        }
+
+    }
+
+}

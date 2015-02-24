@@ -1,0 +1,5 @@
+= Summary
+
+. link:README.adoc[Introduction]
+. link:chapters/chain.adoc[Chain of Command]
+. link:chapters/opord.adoc[Operational Planning]
