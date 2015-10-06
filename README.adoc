@@ -1,1 +1,8 @@
 = Martial Primer
+
+A guide to the military doctrine of The Avyrnian Order of the Wolf.
+
+This guide means to both educate and act as a reference for the operational procedures we use on a regular basis. The following chapters will contain information on the following topics:
+
+* Organisational philosophy
+* Operational guides
