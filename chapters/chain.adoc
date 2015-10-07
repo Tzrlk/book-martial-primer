@@ -1,1 +1,73 @@
 = The Chain of Command
+:toc: macro
+:toc-title:
+:toc-placement: preamble
+
+TODO preamble
+
+== Application
+
+TODO
+
+== Ranks and Titles
+
+TODO
+
+=== Military Ranks
+
+TODO
+
+==== Commander
+TODO
+
+==== Captain
+TODO
+
+==== Lieutenant
+TODO
+
+==== Sergeant
+TODO
+
+==== Soldier
+TODO
+
+=== Prestige Ranks
+
+TODO
+
+==== Grandmaster
+TODO
+
+==== Master
+TODO
+
+==== Stalker
+TODO
+
+==== Witcher
+TODO
+
+==== Hunter
+TODO
+
+==== Initiate
+TODO
+
+==== Associate
+Some individuals wish to assist the Order of the Wolf with their endeavours, but do not wish to commit themselves with
+the dedication required of an Oathed member. Such people are ranked as associates, and will defer to the expertise of
+any and all Oathed members.
+
+An associate should never be given command over an Oathed member unless circumstances are dire enough that it becomes
+critically necessary for effective operations.
+
+=== Titles
+
+TODO
+
+==== Arbiter
+TODO
+
+==== Quartermaster
+TODO

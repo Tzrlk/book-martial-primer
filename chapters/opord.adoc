@@ -1,6 +1,12 @@
 = The Operation Order - OPORD
+:toc: macro
+:toc-title:
+:toc-placement: preamble
 
-Task Organization: States how the unit is organized for the operation and gives who is the main effort. The leader sufficiently weighs the main effort for each mission (for example, machine guns and antiarmor weapons) to ensure success.
+TODO preamble
+
+.Task Organization
+States how the unit is organized for the operation and gives who is the main effort. The leader sufficiently weighs the main effort for each mission (for example, machine guns and antiarmor weapons) to ensure success.
 
 == Step 1: Situation
 

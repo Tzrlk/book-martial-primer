@@ -14,3 +14,10 @@ _book
 *.epub
 *.mobi
 *.pdf
+
+# IDE cruft
+.idea/
+*.iml
+*.ipr
+*.iws
+atlassian-ide-plugin.xml
